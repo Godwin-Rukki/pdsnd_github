@@ -246,7 +246,7 @@ def display_data(df):
     chunk_size = 5
     start_loc = 0
     
-    
+    #creating data loop scroll
     while start_loc < len(df):
         view_data = input('\nDo you want to see 5 rows of data? Enter yes or no.\n')
         if view_data.lower() != 'yes':
