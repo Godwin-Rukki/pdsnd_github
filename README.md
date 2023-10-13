@@ -6,7 +6,7 @@ This project was created on the _13th of October 2023_
 [Bike Share Python Project](https://github.com/Godwin-Rukki/pdsnd_github/blob/master/project/bikeshareproject.py)
 
 ### Description
-The bike share python project is a project to analyze different statistics of a bike share company. I analyzed data like Popular times of travel, Popular stations and trip, Trip duration and User info.
+The bike share python project is a project to analyze different statistics of a bike share company. I analyzed data like *Popular times of travel*, *Popular stations and trip*, *Trip duration and User info*.
 
 ### Files used
 
